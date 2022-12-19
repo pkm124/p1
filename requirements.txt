@@ -1,0 +1,4 @@
+Used mysql xampp server
+
+django version == 4.1.4
+cryptography == 38.0.4
